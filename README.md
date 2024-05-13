@@ -90,3 +90,6 @@ Listed under `./client` directory.
 ![Purchase Ticket](./screenshots/purchase-ticket.png)
 ![Resale Ticket](./screenshots/resale-error.png)
 ![Secondary Market](./screenshots/secondary-market.png)
+
+### Author
+Pedro Nunes
