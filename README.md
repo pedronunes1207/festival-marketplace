@@ -91,5 +91,8 @@ Listed under `./client` directory.
 ![Resale Ticket](./screenshots/resale-error.png)
 ![Secondary Market](./screenshots/secondary-market.png)
 
-### Author
-Pedro Nunes
+### Contributors
+RicardoM11
+RicardoMarquina1219
+RamonAntonioCandia716
+kauaseara
